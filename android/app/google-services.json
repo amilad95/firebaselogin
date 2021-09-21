@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "162019212760",
+    "project_id": "fir-authentication-baba1",
+    "storage_bucket": "fir-authentication-baba1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162019212760:android:cdc4854c0866c8d87e06ad",
+        "android_client_info": {
+          "package_name": "com.example.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162019212760-9jq8a98a2iea4gpifa8bpuftetd8jg47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNiByWIJG5TQBoM_WSV9ySYeOJgNxcQvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162019212760-9jq8a98a2iea4gpifa8bpuftetd8jg47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
