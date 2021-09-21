@@ -38,7 +38,7 @@ class _LoginScreenState extends State<LoginScreen> {
           TextFormField(
               controller: _email,
               decoration: InputDecoration(
-                  border: OutlineInputBorder(), hintText: "enter email here")),
+                  border: OutlineInputBorder(), hintText: "Enter email here")),
           SizedBox(
             height: 20.0,
           ),
@@ -46,7 +46,7 @@ class _LoginScreenState extends State<LoginScreen> {
               controller: _pass,
               decoration: InputDecoration(
                   border: OutlineInputBorder(),
-                  hintText: "enter password here")),
+                  hintText: "Enter password here")),
           SizedBox(
             height: 20.0,
           ),
